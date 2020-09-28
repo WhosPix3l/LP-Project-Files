@@ -13,7 +13,4 @@ You can download the project file by downloading the ZIP file, which is under a 
 i mean you can't really install project files can you
 
 ## Check out Pix3l_
-* Discord - https://discord.gg/UKWgphp
-* Instagram - _pix3l_yt
-* Twitter - iAmPix3l_
-* YouTube - Pix3l_
+* [Discord](https://discord.gg/UKWgphp) - [Instagram](https://instagram.com/_pix3l_yt) - [Twitter](https://twitter.com/iAmPix3l_) - [YouTube](https://youtube.com/PixeliciousYT)
